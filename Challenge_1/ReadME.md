@@ -16,7 +16,7 @@
 ## On this analysis I took two approaches, the first one analyzes the campaigns based on their launch dates and see which ones were more successful depending on their launch month and the second analysis is focused on how success a campaign were depending on their goal range. The challenge here was to define the goal ranges for the analysis and validate if the granularity tells us a good story and then to split all the campaigns by dates due to it’s particular way to express this fields on the data set (Unix type).
 
 ### Analysis of Outcomes Based on Launch Date
-![Theater Outcomes Vs. Launch Dates](kickstarter-analysis/Challenge_1/Resources/Theater_Outcomes_vs_Launch.png)
+![Theater Outcomes Vs. Launch Dates](https://github.com/SeRoGaTa/kickstarter-analysis/blob/main/Challenge_1/Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 
